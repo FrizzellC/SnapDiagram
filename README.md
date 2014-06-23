@@ -1,4 +1,11 @@
 SnapDiagram
 ===========
+Game is called "Snap"
+*First you need a deck of cards and two players.
+*Deck needs to include 4 suits, 13 ranks per suit and 52 cards total.
+*Shuffle and deal the cards - each player gets half the deck.  
+*First player puts a card on the pile, second player adds card on top, repeat until the two cards have matching ranks. 
+*If they match, the first player to call "snap" gets all the cards in the pile. 
+*Pile is now empty again. 
+*Game goes on until either one player has all the cards (winner) or they have reached the maximum amount of rounds.
 
-<mxfile userAgent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36" type="device"><diagram>7Vpdj6s2EP01kdpKiQADSR43+9mHSlfaSm0fvcGAVcCp4+xHf/0dmzEBs2yzm2wS7e1DEhiG8Xh8zrExGZHL8vlW0lX+m0hYMQq85HlErkZB4HvEhx9teakt0yCqDZnkCTptDff8X2bvROuGJ2zdcVRCFIqvusalqCq2VB1bKopuEyua2fBbw/2SFn3rHzxReW2dBfHWfsd4lttm/HheX1mrFxsjYSndFGpsTHBNXy6pjWV6Ra6hYlIICKOPyudLVuiq2YLUXb8ZuNokKVmFibx9A6lveKTFBnMcBXEBty5WndTjfzY6pUVJZcarEbnwVjCMeDpWYgWm0JgUe1ZjWvBMey0hDSbBuo0ARxn+mnYerOGSysQaIeHG3rJBTl1bLl3Le9IuWAoXMe9+hr/c0TVEo/CRtPr7rTw+p9X1hisw0xKqu6ge1vrndNWoibQWBZsUIvvp59czcRD/yKTiQKKLGhBXBikLhMdV3eRCgFdaiCewpBzgSRapqBTy3QdOmPMbWvJCK8UdKx6Zjqq7rErwv0Lc69aYlZc+FYwJeXDLRMmUfAEXvGGKqoJiFOPp05bsQYS2vEX0wEMjDJsxZE3kLe/gAKn3Og3D86HhFVu2oX42NIyMkoNGwMlxiPir4WGlv6SkMJ7H5D8gwkt4mjID31oLjtbzOgUfJgdbcaCByiFQ4DG6zLfadGRFTBjVtEk31VJxAemcCpNQjPWEV7oGngnX5PT1hDE8pTLi8uoclPGWluxcFygrDgGPLFSXklEF6+/Aq9iTzqGgL0weTaTuFZVaEj2V667r1uHnQX/l9JFXWTsljyawuITHA81XZ0mF90MFJ+9ZbR20lKLUfOz2humMjzrjXRSgExZSTxyemjR8Ty2xX1BRZ11FJVZhjyKps/OR1G+Gn+cqqlVX8I+xxmmtNj2RttZfZu2V06r9iHzcwjSD12vkq9DypKzE3aIOK51Ssiq5kNJUqRIVQFNfZ0lv38rpL8QQG7lEL1xQweSZMfQygtCvimQFVfyxG32fLtp9ux37KFYMILIASxsIaz3tW5eE01JUye/60QQvWd/QGm4MoAAgEApqdY9tCalykYmKFtdbq4tLF7wPQilRmqSg73+CBVb/9clf+mSCG5jvHRTchmsPitkSGITqGIMgVMe2tDuPGUb+Jrh5vMSwxMbBuH6EsLQh6qTxrva+ohMotDwZClR3tRcIBtZon3VbaQfQvzeaavru1sLGEGm6hqq6QG2Kuht2rcCcArsGZAfD7sEgaqRkEKLehJBpOCdkNo2iaAY/zjDFZEKmsO8WBvE8IiFSZ18Eky4agtBBw84IdmcD+9j7YQQPJIw79E3C2M5QXj1/7OBgP+zk9EH/EOm0a50cfzioKzJE3mg+mc99LwqjaRjDkQOSOZnMpn448yPQEIDKZ1D7tZcgPxK1B+b/gammWe3sy1QHyM02075M7QUaYGofjE3Xen09LOD6m1p2VH4QxOH7jh0WoXZovEkcR1Pik3kIk0kY+Thd2JEizdrrwBNIsyR6Nyzn/xHoUBOIfY3utDM4gbj+YX0+5A+vXt7yHxL4wzIG1w7/M2bn5ZeV7T3pEDura+Iq4q50mDpvEXqBBujwEbT0d7i+PFo+Gwe9Sdaq23tx4OprL9ABngz30R443f79pnbf/nuJXH8H</diagram></mxfile>
