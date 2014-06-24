@@ -9,6 +9,4 @@ Game is called "Snap"
 *Pile is now empty again. 
 *Game goes on until either one player has all the cards (winner) or they have reached the maximum amount of rounds.
 
-
-file:///Users/cfrizzell/Downloads/myGameDiagram.html
-
+![](myGameDiagram.png)
